@@ -8,8 +8,9 @@ body {
   box-sizing: border-box;
   text-align: center;
   margin-top: 40px;
-  color:  #f1c40f;
+  color: #f1c40f;
   background-color: #008080;
+  display: flex;
 }
 
 /* CONTAINER */
